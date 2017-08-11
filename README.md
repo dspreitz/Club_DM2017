@@ -6,3 +6,5 @@ http://glidertracker.de/#tsk=https://raw.githubusercontent.com/dspreitz/Club_DM2
 Short url:
 http://goo.gl/mrgqeK
 
+Analytics data:
+https://goo.gl/#analytics/goo.gl/mrgqeK/all_time
