@@ -1,31 +1,31 @@
-<Task type="AAT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="Mönchsheide" id="0" comment="" altitude="205.0">
-      <Location longitude="7.25695" latitude="50.5091667"/>
+    <Waypoint name="Moenchsheide" id="0" comment=" 122.0" altitude="213.0">
+      <Location longitude="7.2555556" latitude="50.5080556"/>
     </Waypoint>
     <ObservationZone type="Line" length="20000.0"/>
   </Point>
-  <Point type="Area">
-    <Waypoint name="Rurstaumauer" id="0" comment="" altitude="280.0">
-      <Location longitude="6.4472167" latitude="50.6402833"/>
+  <Point type="Turn">
+    <Waypoint name="Aachen Merzbruc" id="0" comment="EDKA 122.875" altitude="189.0">
+      <Location longitude="6.1863889" latitude="50.8230556"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="30000.0"/>
+    <ObservationZone type="Keyhole"/>
   </Point>
-  <Point type="Area">
-    <Waypoint name="Mendig" id="0" comment="" altitude="174.0">
-      <Location longitude="7.33305" latitude="50.3666667"/>
+  <Point type="Turn">
+    <Waypoint name="Daun Senheld" id="0" comment=" 123.15" altitude="526.0">
+      <Location longitude="6.8577778" latitude="50.1758333"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="10000.0"/>
+    <ObservationZone type="Keyhole"/>
   </Point>
-  <Point type="Area">
-    <Waypoint name="Ailertchen" id="0" comment="" altitude="470.0">
-      <Location longitude="7.9458333" latitude="50.59445"/>
+  <Point type="Turn">
+    <Waypoint name="Montabaur" id="0" comment=" 123.35" altitude="265.0">
+      <Location longitude="7.83" latitude="50.4238889"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="25000.0"/>
+    <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Finish">
-    <Waypoint name="Mönchsheide" id="0" comment="" altitude="205.0">
-      <Location longitude="7.25695" latitude="50.5091667"/>
+    <Waypoint name="Moenchsheide" id="0" comment=" 122.0" altitude="213.0">
+      <Location longitude="7.2555556" latitude="50.5080556"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="4000.0"/>
   </Point>
