@@ -6,22 +6,22 @@
     <ObservationZone type="Line" length="20000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Aachen Merzbruc" id="0" comment="EDKA 122.875" altitude="189.0">
-      <Location longitude="6.1863889" latitude="50.8230556"/>
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="6.72119140625" latitude="50.5557200796"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Cylinder" radius="20000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Daun Senheld" id="0" comment=" 123.15" altitude="526.0">
-      <Location longitude="6.8577778" latitude="50.1758333"/>
+    <Waypoint name="Mendig Mil" id="0" comment="ETHM 122.1" altitude="183.0">
+      <Location longitude="7.3152778" latitude="50.3658333"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Cylinder" radius="10000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Montabaur" id="0" comment=" 123.35" altitude="265.0">
-      <Location longitude="7.83" latitude="50.4238889"/>
+    <Waypoint name="Elz" id="0" comment="EDFY 123.6" altitude="213.0">
+      <Location longitude="8.01" latitude="50.4266667"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Cylinder" radius="20000.0"/>
   </Point>
   <Point type="Finish">
     <Waypoint name="Moenchsheide" id="0" comment=" 122.0" altitude="213.0">
