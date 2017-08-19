@@ -6,16 +6,16 @@
     <ObservationZone type="Line" length="20000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
-      <Location longitude="7.16734313965" latitude="50.1473338207"/>
+    <Waypoint name="Butzbach Pfingst" id="0" comment=" 133.5" altitude="340.0">
+      <Location longitude="8.6194444" latitude="50.4358333"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="20000.0"/>
+    <ObservationZone type="Cylinder" radius="30000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Dauborn" id="0" comment="   ! 123.5" altitude="164.0">
-      <Location longitude="8.1938889" latitude="50.3216667"/>
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="7.76556348805" latitude="50.0831044955"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="20000.0"/>
+    <ObservationZone type="Cylinder" radius="30000.0"/>
   </Point>
   <Point type="Finish">
     <Waypoint name="Moenchsheide" id="0" comment=" 122.0" altitude="213.0">
