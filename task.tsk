@@ -1,25 +1,25 @@
-<Task type="AAT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
     <Waypoint name="Moenchsheide" id="0" comment=" 122.0" altitude="213.0">
       <Location longitude="7.2555556" latitude="50.5080556"/>
     </Waypoint>
     <ObservationZone type="Line" length="20000.0"/>
   </Point>
-  <Point type="Area">
-    <Waypoint name="Singhofen" id="0" comment=" 123.15" altitude="302.0">
-      <Location longitude="7.8536111" latitude="50.2702778"/>
-    </Waypoint>
-    <ObservationZone type="Cylinder" radius="20000.0"/>
-  </Point>
-  <Point type="Area">
-    <Waypoint name="Kirn" id="0" comment=" 123.375" altitude="429.0">
-      <Location longitude="7.5216667" latitude="49.7738889"/>
+  <Point type="Turn">
+    <Waypoint name="Stolberg Diepenl" id="0" comment=" 123.5" altitude="259.0">
+      <Location longitude="6.2819444" latitude="50.7705556"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="15000.0"/>
   </Point>
-  <Point type="Area">
-    <Waypoint name="Montabaur" id="0" comment=" 123.35" altitude="265.0">
-      <Location longitude="7.83" latitude="50.4238889"/>
+  <Point type="Turn">
+    <Waypoint name="Koblenz Winninge" id="0" comment="EDRK 122.65" altitude="195.0">
+      <Location longitude="7.5280556" latitude="50.3252778"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="10000.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Asslarer Huette" id="0" comment=" 129.975" altitude="232.0">
+      <Location longitude="8.4438889" latitude="50.5997222"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="20000.0"/>
   </Point>
