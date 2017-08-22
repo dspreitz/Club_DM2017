@@ -1,31 +1,31 @@
 <Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="Moenchsheide" id="0" comment=" 122.0" altitude="213.0">
-      <Location longitude="7.2555556" latitude="50.5080556"/>
+    <Waypoint name="Mönchsheide" id="0" comment="" altitude="205.0">
+      <Location longitude="7.25695" latitude="50.5091667"/>
     </Waypoint>
     <ObservationZone type="Line" length="20000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Stolberg Diepenl" id="0" comment=" 123.5" altitude="259.0">
-      <Location longitude="6.2819444" latitude="50.7705556"/>
+    <Waypoint name="Wershofen" id="0" comment="" altitude="482.0">
+      <Location longitude="6.7866667" latitude="50.4527833"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="15000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Koblenz Winninge" id="0" comment="EDRK 122.65" altitude="195.0">
-      <Location longitude="7.5280556" latitude="50.3252778"/>
+    <Waypoint name="Neumagen-Drohn" id="0" comment="" altitude="268.0">
+      <Location longitude="6.91695" latitude="49.8438833"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="10000.0"/>
+    <ObservationZone type="Cylinder" radius="15000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Asslarer Huette" id="0" comment=" 129.975" altitude="232.0">
-      <Location longitude="8.4438889" latitude="50.5997222"/>
+    <Waypoint name="Dierdorf-Wienau" id="0" comment="" altitude="290.0">
+      <Location longitude="7.6547167" latitude="50.5675"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="20000.0"/>
+    <ObservationZone type="Cylinder" radius="15000.0"/>
   </Point>
   <Point type="Finish">
-    <Waypoint name="Moenchsheide" id="0" comment=" 122.0" altitude="213.0">
-      <Location longitude="7.2555556" latitude="50.5080556"/>
+    <Waypoint name="Mönchsheide" id="0" comment="" altitude="205.0">
+      <Location longitude="7.25695" latitude="50.5091667"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="4000.0"/>
   </Point>
