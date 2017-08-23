@@ -1,31 +1,25 @@
 <Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="Mönchsheide" id="0" comment="" altitude="205.0">
-      <Location longitude="7.25695" latitude="50.5091667"/>
+    <Waypoint name="Moenchsheide" id="0" comment=" 122.0" altitude="213.0">
+      <Location longitude="7.2555556" latitude="50.5080556"/>
     </Waypoint>
     <ObservationZone type="Line" length="20000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Wershofen" id="0" comment="" altitude="482.0">
-      <Location longitude="6.7866667" latitude="50.4527833"/>
+    <Waypoint name="Braunfels" id="0" comment=" 123.15" altitude="240.0">
+      <Location longitude="8.3930556" latitude="50.5255556"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="15000.0"/>
+    <ObservationZone type="Cylinder" radius="25000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Neumagen-Drohn" id="0" comment="" altitude="268.0">
-      <Location longitude="6.91695" latitude="49.8438833"/>
+    <Waypoint name="Singhofen" id="0" comment=" 123.15" altitude="302.0">
+      <Location longitude="7.8536111" latitude="50.2702778"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="15000.0"/>
-  </Point>
-  <Point type="Turn">
-    <Waypoint name="Dierdorf-Wienau" id="0" comment="" altitude="290.0">
-      <Location longitude="7.6547167" latitude="50.5675"/>
-    </Waypoint>
-    <ObservationZone type="Cylinder" radius="15000.0"/>
+    <ObservationZone type="Cylinder" radius="20000.0"/>
   </Point>
   <Point type="Finish">
-    <Waypoint name="Mönchsheide" id="0" comment="" altitude="205.0">
-      <Location longitude="7.25695" latitude="50.5091667"/>
+    <Waypoint name="Moenchsheide" id="0" comment=" 122.0" altitude="213.0">
+      <Location longitude="7.2555556" latitude="50.5080556"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="4000.0"/>
   </Point>
